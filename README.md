@@ -11,7 +11,7 @@
 <br/>  
 
 
-### About  
+## About  
  I'm Dave, Full-Stack Developer, with a focus on creating modern and engaging solutions, my goal is to utilize my skills and experience in web development to deliver impactful and high-quality solutions.  
   
 
