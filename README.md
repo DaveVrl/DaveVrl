@@ -41,11 +41,11 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveVrl&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveVrl&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
   
 
