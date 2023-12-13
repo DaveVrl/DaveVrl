@@ -45,7 +45,8 @@ I'm Dave, Full-Stack Developer, with a focus on creating modern and engaging sol
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+<br/>   
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=DaveVrl&&style=flat-square" align="right" />
@@ -54,4 +55,3 @@ I'm Dave, Full-Stack Developer, with a focus on creating modern and engaging sol
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
