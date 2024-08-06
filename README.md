@@ -32,22 +32,3 @@ I'm Dave, Full-Stack Developer, with a focus on creating modern and engaging sol
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davevrl&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
-<br/>   
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=DaveVrl&&style=flat-square" align="right" />
-</div>  
-
-<br />
-
-----
