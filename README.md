@@ -16,7 +16,11 @@
 
 ###
 
-<div align="right">
+<h3 align="center">Tools</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
@@ -68,7 +72,7 @@
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DaveVrl.DaveVrl&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DaveVrl.DaveVrl&left_text=views"  />
 </div>
 
 ###
