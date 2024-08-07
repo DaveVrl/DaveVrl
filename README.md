@@ -1,30 +1,20 @@
-<br clear="both">
-
 <div align="right">
   <a href="https://www.linkedin.com/in/davevrl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="center">About</h3>
+<h3 align="left">About</h3>
 
 ###
 
-<p align="center">Hey! I'm Dave, a Full Stack Developer. I work on personal projects every day to improve my skills. My goal is to use my experience to deliver efficient solutions. If you'd like to know more about me, feel free to reach out.</p>
+<p align="left">Hey! I'm Dave, a Full Stack Developer. I work on personal projects every day to improve my skills. My goal is to use my experience to deliver efficient solutions. If you'd like to know more about me, feel free to reach out.</p>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaveVrl&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h4>
 
 ###
 
@@ -39,13 +29,13 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=DaveVrl&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=DaveVrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveVrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">Stack</h3>
+<h4 align="center">Stack</h4>
 
 ###
 
