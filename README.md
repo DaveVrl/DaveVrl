@@ -8,11 +8,19 @@
 
 ###
 
-<h3 align="left">About</h3>
+<h3 align="center">About</h3>
 
 ###
 
-<p align="left">Hey! I'm Dave, a Full Stack Developer. I work on personal projects every day to improve my skills. My goal is to use my experience to deliver efficient solutions. If you'd like to know more about me, feel free to reach out.</p>
+<p align="center">Hey! I'm Dave, a Full Stack Developer. I work on personal projects every day to improve my skills. My goal is to use my experience to deliver efficient solutions. If you'd like to know more about me, feel free to reach out.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DaveVrl&locale=en&mode=weekly&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
