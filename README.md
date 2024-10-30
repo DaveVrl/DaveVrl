@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaveVrl&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DaveVrl&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
